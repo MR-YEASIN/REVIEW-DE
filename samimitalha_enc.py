@@ -1,4 +1,4 @@
-# Obfuscated with PyObfuscate
+# kire vai 
 # https://www.github.com/htr-tech
 # Time : Mon Nov 27 14:02:35 2023
 # -------------------------------
